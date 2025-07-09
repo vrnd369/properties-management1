@@ -44,7 +44,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <div className="logo">Properties & Management Services</div>
+        <div className="logo">Metro Homes</div>
         <div className="header-actions">
           <button className="header-button" onClick={() => handleClick("Property Listing")}>
             Property Listing <FaChevronDown />
